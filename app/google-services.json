@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "686197048858",
+    "firebase_url": "https://fir-chatting-587ab.firebaseio.com",
+    "project_id": "fir-chatting-587ab",
+    "storage_bucket": "fir-chatting-587ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686197048858:android:ffc198900e0aade4",
+        "android_client_info": {
+          "package_name": "com.isttis2019.ex_88firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686197048858-9v3ou3v880ju9hlet6664p4bqeaiktvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuDLQH55MpgOjW3AIJv474K2pK50pWzDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
